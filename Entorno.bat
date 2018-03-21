@@ -1,0 +1,1 @@
+﻿setx /m TestVariableName My Value
